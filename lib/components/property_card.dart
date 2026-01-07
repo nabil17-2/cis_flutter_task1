@@ -28,24 +28,24 @@ class _PropertyCardState extends State<PropertyCard> {
 
   static const List<List<String>> _reliableImageSets = [
     [
-      'https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&auto=format&fit=crop', // Hotel room 1
-      'https://images.unsplash.com/photo-1590490360182-c33d57733427?w-800&auto=format&fit=crop', // Hotel room 2
-      'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=800&auto=format&fit=crop', // Hotel lobby
+      'https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&auto=format&fit=crop', 
+      'https://images.unsplash.com/photo-1590490360182-c33d57733427?w-800&auto=format&fit=crop', 
+      'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=800&auto=format&fit=crop', 
     ],
     [
-      'https://images.unsplash.com/photo-1611892440504-42a792e24d32?w=800&auto=format&fit=crop', // Apartment 1
-      'https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?w=800&auto=format&fit=crop', // Apartment 2
-      'https://images.unsplash.com/photo-1518780664697-55e3ad937233?w=800&auto=format&fit=crop', // Luxury room
+      'https://images.unsplash.com/photo-1611892440504-42a792e24d32?w=800&auto=format&fit=crop', 
+      'https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?w=800&auto=format&fit=crop', 
+      'https://images.unsplash.com/photo-1518780664697-55e3ad937233?w=800&auto=format&fit=crop', 
     ],
     [
-      'https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800&auto=format&fit=crop', // Resort 1
-      'https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800&auto=format&fit=crop', // Resort 2
-      'https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=800&auto=format&fit=crop', // Resort pool
+      'https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800&auto=format&fit=crop', 
+      'https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800&auto=format&fit=crop', 
+      'https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=800&auto=format&fit=crop', 
     ],
     [
-      'https://images.unsplash.com/photo-1582719508461-905c673771fd?w=800&auto=format&fit=crop', // Villa 1
-      'https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=800&auto=format&fit=crop', // Villa 2
-      'https://images.unsplash.com/photo-1613977257363-707ba9348227?w=800&auto=format&fit=crop', // Villa view
+      'https://images.unsplash.com/photo-1582719508461-905c673771fd?w=800&auto=format&fit=crop', 
+      'https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=800&auto=format&fit=crop', 
+      'https://images.unsplash.com/photo-1613977257363-707ba9348227?w=800&auto=format&fit=crop', 
     ],
   ];
 
